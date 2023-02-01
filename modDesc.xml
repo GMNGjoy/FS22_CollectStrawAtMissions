@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+<version>1.0.0.1</version>
+<author>derSchreiner, GMNGjoy</author>
+
+    <title>
+        <en>Collect Straw At Missions</en>
+        <de>Strohsammeln Während Den Missionen</de>
+    </title>
+
+    <description>
+        <en><![CDATA[Allows to collect straw of the contract fields with baler, windrower and forage wagon.
+            
+Changelog 1.0.0.1
+- Updated Icon
+- Added ability to windrow during straw collecting]]></en>
+        <de><![CDATA[Erlaubt das Einsammeln von Stroh, für laufende Missionen, per Ballenpresse, Schwader und Ladewagen.            
+            
+Changelog 1.0.0.1
+- Aktualisiertes Symbol
+- Möglichkeit zum Schwaden während des Sammelns von Stroh hinzugefügt]]></de>
+    </description>
+
+    <multiplayer supported="true" />
+    <iconFilename>modIcon.dds</iconFilename>
+    <extraSourceFiles>
+        <sourceFile filename="CollectStrawAtMissions.lua" />
+    </extraSourceFiles>
+</modDesc>
